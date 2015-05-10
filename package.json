@@ -2,7 +2,7 @@
   "name": "pure-render-mixin",
   "version": "1.0.1",
   "description": "Facebook's PureRenderMixin for React as an isolated module",
-  "main": "index.js",
+  "main": "src/pure-render-mixin.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha tests/*.js"
   },
