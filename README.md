@@ -2,9 +2,6 @@
 Facebook's PureRenderMixin for React as an isolated module. Read [Facebook's write up](PureRenderMixin) on why this is useful for
 increasing react component rendering performance.
 
-**Todo:**
-  - [ ] Potentially port tests from react project
-
 # Installation
 
       npm install pure-render-mixin

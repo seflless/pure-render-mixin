@@ -4,7 +4,7 @@
   "description": "Facebook's PureRenderMixin for React as an isolated module",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha tests/tests.js"
+    "test": "./node_modules/mocha/bin/mocha tests/*.js"
   },
   "repository": {
     "type": "git",
