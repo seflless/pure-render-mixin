@@ -1,6 +1,6 @@
 {
   "name": "pure-render-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facebook's PureRenderMixin for React as an isolated module",
   "main": "index.js",
   "scripts": {
