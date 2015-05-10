@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/francoislaberge/pure-render-mixin/issues"
   },
-  "homepage": "https://github.com/francoislaberge/pure-render-mixin"
+  "homepage": "https://github.com/francoislaberge/pure-render-mixin",
+  "devDependencies": {
+    "react": "^0.13.3"
+  }
 }
