@@ -1,0 +1,29 @@
+{
+  "name": "pure-render-mixin",
+  "version": "1.0.0",
+  "description": "Facebook's PureRenderMixin for React as an isolated module",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:francoislaberge/pure-render-mixin.git"
+  },
+  "keywords": [
+    "react",
+    "pure",
+    "render",
+    "performance",
+    "dom"
+  ],
+  "author": {
+    "name": "Francois Laberge",
+    "email": "francoislaberge@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francoislaberge/pure-render-mixin/issues"
+  },
+  "homepage": "https://github.com/francoislaberge/pure-render-mixin"
+}
